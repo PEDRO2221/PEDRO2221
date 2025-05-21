@@ -26,15 +26,13 @@
 
 ### 🎧 Spotify Clone  
 Interface visual inspirada no Spotify, com foco em design responsivo e organização em componentes.  
-🔗 [Ver repositório](https://github.com/PEDRO2221/spotify)  
-![Preview Spotify](https://via.placeholder.com/600x300?text=Preview+do+Spotify+Clone)
+🔗 [Ver repositório](https://github.com/evilyn-cordeiro/spotify-clone)  
 
 ---
 
 ### 💳 Nubank UI  
 Projeto visual inspirado no app do Nubank. Criado para praticar HTML, CSS e conceitos modernos de layout.  
-🔗 [Ver repositório](https://github.com/PEDRO2221/nubank)  
-![Preview Nubank](https://via.placeholder.com/600x300?text=Preview+do+Nubank+Clone)
+🔗 [Ver repositório](https://github.com/PEDRO2221/nubank-ionic)  
 
 ---
 
