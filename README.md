@@ -5,7 +5,7 @@
 📍 Mauriti, Ceará, Brasil  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoaoPedroPequeno)  
-[![Email](https://img.shields.io/badge/Email-D00000?style=flat-square&logo=gmail&logoColor=white)](mailto:anonimousdex01@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D00000?style=flat-square&logo=gmail&logoColor=white)](mailto:anonimousdex01@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/PEDRO2221?label=Follow&style=social)](https://github.com/PEDRO2221)
 
 ---
