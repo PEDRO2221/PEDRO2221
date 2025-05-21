@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Pedro!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFAP  
-💻 Desenvolvedor Front-End apaixonado por tecnologia  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNOPAR
+💻 Desenvolvedor Front-End apaixonado por tecnologia, interfaces intuitivas e experiências digitais envolventes
 📍 Mauriti, Ceará, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoaoPedroPequeno)
