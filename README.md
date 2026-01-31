@@ -44,15 +44,6 @@ Aplicação Vue.js para abertura e gerenciamento de chamados técnicos, com orga
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PEDRO2221&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDRO2221&layout=compact&theme=default" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
-
 ## 📫 Contato
 
 Se quiser trocar uma ideia, colaborar em algum projeto ou tirar dúvidas:
